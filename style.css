@@ -43,10 +43,10 @@ body {
   -o-border-radius: 1.1em;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 960px) {
   .rating,
   .thank-you {
-    width: 3px;
+    width: 370px;
     padding: 2em;
     border-radius: 1.7em;
     -webkit-border-radius: 1.7em;
@@ -80,7 +80,7 @@ body {
   margin-left: 2px;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
   .rating .star-icon {
     width: 2.8em;
     height: 2.8em;
@@ -93,7 +93,7 @@ body {
 .popup h1 {
   margin-bottom: 0.7em;
 }
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
   .popup h1 {
     margin-bottom: 0.4em;
     font-size: 1.7em;
@@ -106,7 +106,7 @@ body {
   font-weight: 700;
   margin-bottom: 2em;
 }
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
   .popup p {
     margin-bottom: 1.7em;
   }
@@ -140,7 +140,7 @@ body {
   cursor: pointer;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
   .rating .rates {
     margin-bottom: 1.7em;
   }
@@ -177,7 +177,7 @@ body {
   cursor: pointer;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 960px) {
   .rating .submit {
     padding: 0.9em;
   }
