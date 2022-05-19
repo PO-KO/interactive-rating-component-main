@@ -43,10 +43,10 @@ body {
   -o-border-radius: 1.1em;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 992px) {
   .rating,
   .thank-you {
-    width: 364px;
+    width: 3px;
     padding: 2em;
     border-radius: 1.7em;
     -webkit-border-radius: 1.7em;
